@@ -2454,19 +2454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ceili\\.nuget\\packages\\": {}
+    "C:\\Users\\davek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ceili\\source\\repos\\CakeFactoryProduction\\CakeFactory\\CakeFactory.csproj",
+      "projectUniqueName": "C:\\Users\\davek\\Source\\Repos\\CakeFactory\\CakeFactory\\CakeFactory.csproj",
       "projectName": "CakeFactory",
-      "projectPath": "C:\\Users\\ceili\\source\\repos\\CakeFactoryProduction\\CakeFactory\\CakeFactory.csproj",
-      "packagesPath": "C:\\Users\\ceili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ceili\\source\\repos\\CakeFactoryProduction\\CakeFactory\\obj\\",
+      "projectPath": "C:\\Users\\davek\\Source\\Repos\\CakeFactory\\CakeFactory\\CakeFactory.csproj",
+      "packagesPath": "C:\\Users\\davek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\davek\\Source\\Repos\\CakeFactory\\CakeFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ceili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\davek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
